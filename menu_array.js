@@ -92,62 +92,62 @@ style1,				// Properties Array - this is set higher up, as above
 ,"Os&nbsp;dedos&nbsp;&nbsp;&nbsp;&nbsp;","show-menu=ded",,"Os dedos",1
 ,"Sintomas&nbsp;e&nbsp;TSE&nbsp;&nbsp;&nbsp;&nbsp;","show-menu=sin",,"Sintomas e TSE",1
 ,"Localizar&nbsp;palavra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","show-menu=lp",,"Localizar palavra",1
-,"<img src=home.gif border=0>","index.htm",,"Início",1
+,"<img src=home.gif border=0>","index.html",,"Início",1
 
 ])
 
 addmenu(menu=["jsj",
 ,,130,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"Conceitos básicos","fundamentos.htm",,"Conceitos básicos",1
-,"Profundidades", "profundidades.htm",,"Profundidades",1
-,"As Atitudes", "atitudes2.htm",,"As Atitudes",1
-,"Fluxos de Energia", "fluxos.htm",,"Fluxos de Energia",1
-,"Travas", "tse.htm",,"Travas",1
-,"Respirações", "respiracao.htm",,"Respirações",1
+,"Conceitos básicos","fundamentos.html",,"Conceitos básicos",1
+,"Profundidades", "profundidades.html",,"Profundidades",1
+,"As Atitudes", "atitudes2.html",,"As Atitudes",1
+,"Fluxos de Energia", "fluxos.html",,"Fluxos de Energia",1
+,"Travas", "tse.html",,"Travas",1
+,"Respirações", "respiracao.html",,"Respirações",1
 
 ])
 addmenu(menu=["ft",
 ,,130,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"Central Principal","trindadecp.htm",,"Central Principal",1
-,"Fluxos Supervisores","trindadefs.htm",,"Fluxos Supervisores",1
-,"Fluxos Mediadores","trindadefm.htm",,"Fluxos Mediadores",1
+,"Central Principal","trindadecp.html",,"Central Principal",1
+,"Fluxos Supervisores","trindadefs.html",,"Fluxos Supervisores",1
+,"Fluxos Mediadores","trindadefm.html",,"Fluxos Mediadores",1
 
 ])
 addmenu(menu=["tse",
 ,,180,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"O que é?","tse.htm",,"O que é?",1
-,"TSE e as Profundidades","26tseoqs.htm",,"TSE e as Profundidades",1
-,"Como abrir as TSE","26tseca.htm",,"Como abrir as TSE",1
-,"Oráculo das Trava de Segurança de Energia - TSE","oraculo2.htm",,"Oráculo das Trava de Segurança de Energia - TSE",1
-,"A Energia Vital para o seu Dia","tsedia.htm",,"A Energia Vital para o seu Dia",1
-,"Perguntas e Respostas","perguntas.htm",,"Perguntas e Respostas",1
+,"O que é?","tse.html",,"O que é?",1
+,"TSE e as Profundidades","26tseoqs.html",,"TSE e as Profundidades",1
+,"Como abrir as TSE","26tseca.html",,"Como abrir as TSE",1
+,"Oráculo das Trava de Segurança de Energia - TSE","oraculo2.html",,"Oráculo das Trava de Segurança de Energia - TSE",1
+,"A Energia Vital para o seu Dia","tsedia.html",,"A Energia Vital para o seu Dia",1
+,"Perguntas e Respostas","perguntas.html",,"Perguntas e Respostas",1
 
 ])
 addmenu(menu=["fo",
 ,,130,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"O que são?","orgaosoqs.htm",,"O que são?",1
-,"Como equilibrar","orgaosce.htm",,"Como equilibrar",1
+,"O que são?","orgaosoqs.html",,"O que são?",1
+,"Como equilibrar","orgaosce.html",,"Como equilibrar",1
 
 
 ])
 addmenu(menu=["zd",
 ,,130,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"O que são?","zeladorasoqs.htm",,"O que são?",1
-,"Como revitalizar","zeladorascr.htm",,"Como revitalizar",1
+,"O que são?","zeladorasoqs.html",,"O que são?",1
+,"Como revitalizar","zeladorascr.html",,"Como revitalizar",1
 
 ])
 
 addmenu(menu=["ded",
 ,,160,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"Os Oito Mudras","8mudras.htm",,"Os Oito Mudras",1
-,"Elo entre as mãos e os pés","elomp.htm",,"Elo entre as mãos e os pés",1
+,"Os Oito Mudras","8mudras.html",,"Os Oito Mudras",1
+,"Elo entre as mãos e os pés","elomp.html",,"Elo entre as mãos e os pés",1
 
 ])
 addmenu(menu=["sin",
 ,,130,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"Sintomas do corpo","corpo.htm",,"Sintomas do corpo",1
-,"Sintomas da mente","mente.htm",,"Sintomas da mente",1
-,"Sintomas espírituais","espirito.htm",,"Sintomas espírituais",1
+,"Sintomas do corpo","corpo.html",,"Sintomas do corpo",1
+,"Sintomas da mente","mente.html",,"Sintomas da mente",1
+,"Sintomas espírituais","espirito.html",,"Sintomas espírituais",1
 
 
 
@@ -156,7 +156,7 @@ addmenu(menu=["sin",
 ])
 addmenu(menu=["lp",
 ,,120,1,"",style1,,"left",effect,,,,,,,,,,,,
-,"Localizar palavra","buscas.htm",,"Localizar palavra",1
+,"Localizar palavra","buscas.html",,"Localizar palavra",1
 
 
 
